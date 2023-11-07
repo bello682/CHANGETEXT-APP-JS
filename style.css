@@ -1,0 +1,19 @@
+#remove_add {
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    background: green;
+    border: none;
+}
+
+#remove_add:hover {
+    color: green;
+    background: white;
+    border: none;
+    border-radius: 10px;
+}
+
+#romove {
+    color: white;
+    /* font-size: 40px; */
+}
